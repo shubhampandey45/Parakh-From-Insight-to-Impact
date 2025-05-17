@@ -182,7 +182,7 @@ function Home() {
                 <Box sx={{
                   display: 'flex',
                   flexDirection: 'column',
-                  gap: '24px', // Increased gap
+                  gap: '28px', // Increased gap
                   justifyContent: 'center',
                 }}>
                   <Typography variant="h2" sx={{
